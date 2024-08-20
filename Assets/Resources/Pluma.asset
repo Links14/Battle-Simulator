@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c0d555a3130c7b41bba64a9758c2cd0, type: 3}
+  m_Name: Pluma
+  m_EditorClassIdentifier: 
+  creatureName: Pluma
+  sprite: {fileID: -2129495338, guid: 4f597a1a5f37aa149bf53f4ed5045810, type: 3}
+  moves:
+  - {fileID: 11400000, guid: 31eb994ad2ba3ee48ae58aef81e7a5d5, type: 2}
+  - {fileID: 11400000, guid: 7454df3dc8403544993004068649cfb4, type: 2}
+  - {fileID: 11400000, guid: 767fc27953da56f4bad06e2d332dc750, type: 2}
+  - {fileID: 11400000, guid: d4db403942dc04e48a012849ba8ae89e, type: 2}
+  maxHpStat: 100
+  attackStat: 20
+  defenseStat: 50
+  speedStat: 10
